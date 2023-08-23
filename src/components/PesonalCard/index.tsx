@@ -25,7 +25,7 @@ const PersonalCard = () => {
         className='card_element'
         bg='rgb(0, 0, 0,0.2)'
         height='700px'
-        maxHeight='100vh'
+        minHeight='80vh'
         width='550px'
         border='1px solid'
         borderRadius='20px'
