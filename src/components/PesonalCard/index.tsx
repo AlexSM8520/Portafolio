@@ -83,7 +83,7 @@ const PersonalCard = () => {
               <Box as='span' padding='5px' fontSize='18px'>
                 Base in Managua,Nicaragua
               </Box>
-              <Box marginTop='80px'>
+              <Box marginTop='10%'>
                 <ButtonGroup variant='outline' spacing='6'>
                   <IconButton
                     isRound={true}
@@ -114,7 +114,7 @@ const PersonalCard = () => {
                   />
                 </ButtonGroup>
               </Box>
-              <Box marginTop='50px'>
+              <Box marginTop='10%'>
                 <Button
                   colorScheme='whatsapp'
                   leftIcon={<FaEnvelope />}
